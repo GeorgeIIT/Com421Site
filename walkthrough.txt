@@ -1,5 +1,9 @@
 homepage:
-gives users my email address and linkdin information 
+gives users my email address and linkdin information if they would like to contact me.
 
 Resume:
-Lists my experiences and education as well as some skills  
+Link at teh top allows users to download the pdf version of my resume. Clicking this link in chrome automatically opens it. The resume itself lists my experiences and education as well as some skills.
+
+Wish I could have done:
+I would like to add media queries that allow the nav bar to resize itself depending on the device being used. This would give the site better accessability for users who are on mobile or have small screens. 
+I think it would also be useful to have a button on the nav bar that toggles between dark and light themes. I personally prefer websites with dark themes so I choose to use that.
