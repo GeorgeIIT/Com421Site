@@ -1,0 +1,5 @@
+homepage:
+gives users my email address and linkdin information 
+
+Resume:
+Lists my experiences and education as well as some skills  
